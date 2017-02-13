@@ -1,29 +1,38 @@
 # Assignment1.1
 
 Q1. Various sources of Big Data : 
-     1.Archieves
+
+   1.Archieves
       - Internal archived data that lives behind your own firewalls is typically unstructured, and uses no APIs
-     2.Documents
+      
+2.Documents
      - Docs can exist inside or outside your organization
-     3.Media
+     
+3.Media
       -exists in-and-out of your organization, may connect with APIs
       -is moderately structured.
+      
      4.Data Storage
+     
      5.Business apps
       -Business apps are structured
+      
      6.Public websites
       -Public web is external, but some very cool and useful applications can be mashed up with it. For example, is your business              affected by the daily fluctuation of currency
+      
      7.Social media
       -Social media is high velocity, high volume data that you can use to detect trends, analyze sentiment about your brand, customer            service and competitors, or target campaigns to social accounts that match the email addresses in your customer file 
+      
      8.Machine log data
       -You’re likely making good use of machine log data through your Web analytics, the next step is using mobile or third party              services that help you better identify, target and convert visitors.
+      
      9.Sensor data
       -Sensor data is high velocity, volume, variety and dare I add…value, when used correctly to understand user context and predict            behavior. Sensors for geolocation, temperature, noise, attention, engagement, biometrics
       
       
 Q2. 3 V's of Big Data :
       
-      3Vs (volume, variety and velocity) are three defining properties or dimensions of big data. Volume refers to the amount of data, variety refers to the number of types of data and velocity refers to the speed of data processing. According to the 3Vs model, the challenges of big data management result from the expansion of all three properties, rather than just the volume alone -- the sheer amount of data to be managed.
+   3Vs (volume, variety and velocity) are three defining properties or dimensions of big data. Volume refers to the amount of data, variety refers to the number of types of data and velocity refers to the speed of data processing. According to the 3Vs model, the challenges of big data management result from the expansion of all three properties, rather than just the volume alone -- the sheer amount of data to be managed.
      
 Data Volume:
 The size of available data has been growing at an increasing rate. This applies to companies and to individuals. A text file is a few kilo bytes, a sound file is a few mega bytes while a full length movie is a few giga bytes.

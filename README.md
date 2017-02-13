@@ -1,6 +1,6 @@
 # Assignment1.1
 
-1. Various sources of Big Data : 
+Q1. Various sources of Big Data : 
      1.Archieves
       - Internal archived data that lives behind your own firewalls is typically unstructured, and uses no APIs
      2.Documents
@@ -21,7 +21,7 @@
       -Sensor data is high velocity, volume, variety and dare I add…value, when used correctly to understand user context and predict            behavior. Sensors for geolocation, temperature, noise, attention, engagement, biometrics
       
       
-2. 3 V's of Big Data :
+Q2. 3 V's of Big Data :
       
       3Vs (volume, variety and velocity) are three defining properties or dimensions of big data. Volume refers to the amount of data, variety refers to the number of types of data and velocity refers to the speed of data processing. According to the 3Vs model, the challenges of big data management result from the expansion of all three properties, rather than just the volume alone -- the sheer amount of data to be managed.
      
@@ -36,7 +36,7 @@ Data Variety:
 From excel tables and databases, data structure has changed to loose its structure and to add hundreds of formats. Pure text, photo, audio, video, web, GPS data, sensor data, relational data bases, documents, SMS, pdf, flash, etc   
 
 
-3. Horizontal Scaling and Vertical Scaling
+Q3. Horizontal Scaling and Vertical Scaling
 
 (1).Scale-Out or Horizontal Scaling
 
@@ -80,7 +80,7 @@ Severe vendor lock-in
 The overall cost of implementing is really expensive
 
 
-4. Need and Working of Hadoop
+Q4. Need and Working of Hadoop
 
 
 The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-availability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly available service on top of a cluster of computers, each of which may be prone to failures.

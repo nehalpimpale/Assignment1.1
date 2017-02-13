@@ -1,24 +1,23 @@
 # Assignment1.1
 
 1. Various sources of Big Data : 
-
-    1.Archieves
-     - Internal archived data that lives behind your own firewalls is typically unstructured, and uses no APIs
-    2.Documents
+     1.Archieves
+      - Internal archived data that lives behind your own firewalls is typically unstructured, and uses no APIs
+     2.Documents
      - Docs can exist inside or outside your organization
-    3.Media
+     3.Media
       -exists in-and-out of your organization, may connect with APIs
       -is moderately structured.
-    4.Data Storage
-    5.Business apps
+     4.Data Storage
+     5.Business apps
       -Business apps are structured
-    6.Public websites
-      -Public web is external, but some very cool and useful applications can be mashed up with it. For example, is your business affected        by the daily fluctuation of currency
-    7.Social media
+     6.Public websites
+      -Public web is external, but some very cool and useful applications can be mashed up with it. For example, is your business              affected by the daily fluctuation of currency
+     7.Social media
       -Social media is high velocity, high volume data that you can use to detect trends, analyze sentiment about your brand, customer            service and competitors, or target campaigns to social accounts that match the email addresses in your customer file 
-    8.Machine log data
-      -You’re likely making good use of machine log data through your Web analytics, the next step is using mobile or third party services        that help you better identify, target and convert visitors.
-    9.Sensor data
+     8.Machine log data
+      -You’re likely making good use of machine log data through your Web analytics, the next step is using mobile or third party              services that help you better identify, target and convert visitors.
+     9.Sensor data
       -Sensor data is high velocity, volume, variety and dare I add…value, when used correctly to understand user context and predict            behavior. Sensors for geolocation, temperature, noise, attention, engagement, biometrics
       
       
